@@ -1,0 +1,4 @@
+PS D:\Rakamin_github\git-homework> git log --oneline
+9e23711 (HEAD -> master, origin/master, edit-readme) add penjelasan dasar Git di README.md      
+5f2ab78 add info.txt berisi informasi pribadi   
+PS D:\Rakamin_github\git-homework> 
